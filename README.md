@@ -6,13 +6,13 @@ A clean and modern Personal Profile Card built using HTML and CSS. This project 
 
 <a href="https://praveenraj-ks.github.io/Personal-Profile-Card/">
   <img src="praveen1.png"
-       width="700"
+       width="200px"
        alt="My First Repository">
 </a>
 
 <br><br>
 
-<a href="https://github.com/YOUR_USERNAME/Personal-Profile-Card">
+<a href="https://praveenraj-ks.github.io/Personal-Profile-Card/">
   <img src="https://img.shields.io/badge/Personal--Profile--Card-Public-2ea44f?style=for-the-badge&logo=github">
 </a>
 
